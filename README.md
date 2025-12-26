@@ -7,7 +7,7 @@
 
 > **A production-ready, AI-powered educational platform that revolutionizes student support through intelligent document processing, real-time chat assistance, and automated verification systems.**
 
-## 🌟 Project Highlights
+##  Project Highlights
 
 This project demonstrates **enterprise-grade full-stack development** with:
 
@@ -20,7 +20,7 @@ This project demonstrates **enterprise-grade full-stack development** with:
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Educational institutions face challenges in:
 - Providing 24/7 student support
@@ -38,7 +38,7 @@ DABBA AI provides an **intelligent, self-learning ecosystem** that:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ### System Design
 
@@ -104,7 +104,7 @@ DABBA AI provides an **intelligent, self-learning ecosystem** that:
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ### 1. **Intelligent Chat Assistant**
 - Context-aware responses using RAG
@@ -133,7 +133,7 @@ DABBA AI provides an **intelligent, self-learning ecosystem** that:
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 
@@ -200,7 +200,7 @@ ollama list
 
 ---
 
-## 🎨 UI/UX Showcase
+##  UI/UX Showcase
 
 ### Design System
 
@@ -221,7 +221,7 @@ ollama list
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 ```bash
 # Backend tests
@@ -238,7 +238,7 @@ npm run test:e2e
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 - **Response Time:** <1s for chat queries
 - **Document Processing:** ~2s per PDF
@@ -248,7 +248,7 @@ npm run test:e2e
 
 ---
 
-## 🔐 Security Features
+##  Security Features
 
 - JWT-based authentication
 - Password hashing with bcrypt
@@ -260,7 +260,7 @@ npm run test:e2e
 
 ---
 
-## 🚢 Deployment
+##  Deployment
 
 ### Docker Deployment
 
@@ -283,7 +283,7 @@ docker-compose up -d --scale backend=3
 
 ---
 
-## 📈 Roadmap
+##  Roadmap
 
 - [ ] Multi-language support
 - [ ] Voice chat integration
@@ -295,7 +295,7 @@ docker-compose up -d --scale backend=3
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
@@ -307,24 +307,23 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for de
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Chandril Mallick**
 
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn]
+
 - GitHub: [@chandril-mallick](https://github.com/chandril-mallick)
-- Email: your.email@example.com
+- Email: chandrilmallick1@gmail.com
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - OpenAI for GPT architecture inspiration
 - Hugging Face for transformer models
@@ -334,7 +333,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Landing Page
 ![Landing Page](./docs/screenshots/landing.png)
@@ -348,34 +347,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Admin Dashboard
 ![Admin Dashboard](./docs/screenshots/admin.png)
 
----
 
-## 🎓 Technical Highlights for FAANG Interviews
-
-### System Design Decisions
-
-1. **Microservices Architecture:** Separated concerns for scalability
-2. **Event-Driven Design:** Async processing for document ingestion
-3. **Caching Strategy:** Redis for session management
-4. **Load Balancing:** Ready for horizontal scaling
-5. **Database Optimization:** Indexed queries, connection pooling
-
-### Code Quality
-
-- **Type Safety:** TypeScript in frontend, type hints in Python
-- **Testing:** Unit, integration, and E2E tests
-- **Documentation:** Comprehensive docstrings and comments
-- **Code Style:** ESLint, Prettier, Black, isort
-- **Git Workflow:** Feature branches, PR reviews, semantic commits
-
-### Performance Optimization
-
-- **Lazy Loading:** Code splitting in React
-- **Memoization:** React.memo, useMemo, useCallback
-- **Database Queries:** N+1 query prevention
-- **Caching:** Browser cache, API response caching
-- **CDN:** Static assets served via CDN
-
----
 
 **Built with ❤️ for the future of education**
