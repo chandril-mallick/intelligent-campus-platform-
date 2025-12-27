@@ -86,6 +86,12 @@ DABBA AI provides an **intelligent, self-learning ecosystem** that:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+### Detailed Architecture Diagram
+
+![System Architecture](./docs/screenshots/architecture-diagram.png)
+
+*Complete system architecture showing client layer, API gateway, business logic layer, and data layer with all service interactions*
+
 ### Tech Stack
 
 **Frontend:**
