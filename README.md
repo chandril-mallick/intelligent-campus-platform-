@@ -269,7 +269,7 @@ Focus states with glow effects
 
 ---
 
-## FAANG Interview Highlights
+
 
 ### System Design Decisions
 
@@ -498,7 +498,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Technical Highlights for FAANG Interviews
+
 
 ### System Design Decisions
 
