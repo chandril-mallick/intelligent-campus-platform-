@@ -424,10 +424,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Chandril Mallick**
 
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn]
 - GitHub: [@chandril-mallick](https://github.com/chandril-mallick)
-- Email: your.email@example.com
+- Email: chandrilmallick1@gmail.com
 
 ---
 
@@ -463,31 +461,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-### System Design Decisions
 
-1. **Microservices Architecture:** Separated concerns for scalability
-2. **Event-Driven Design:** Async processing for document ingestion
-3. **Caching Strategy:** Redis for session management
-4. **Load Balancing:** Ready for horizontal scaling
-5. **Database Optimization:** Indexed queries, connection pooling
-
-### Code Quality
-
-- **Type Safety:** TypeScript in frontend, type hints in Python
-- **Testing:** Unit, integration, and E2E tests
-- **Documentation:** Comprehensive docstrings and comments
-- **Code Style:** ESLint, Prettier, Black, isort
-- **Git Workflow:** Feature branches, PR reviews, semantic commits
-
-### Performance Optimization
-
-- **Lazy Loading:** Code splitting in React
-- **Memoization:** React.memo, useMemo, useCallback
-- **Database Queries:** N+1 query prevention
-- **Caching:** Browser cache, API response caching
-- **CDN:** Static assets served via CDN
-
----
 
 **Built with for the future of education**
 
