@@ -482,15 +482,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Landing Page
 ![Landing Page](./docs/screenshots/landing.png)
+*Modern landing page with gradient backgrounds, animated hero section, and feature showcase*
 
 ### Student Portal
 ![Student Portal](./docs/screenshots/student-portal.png)
+*AI-powered chat interface with quick access sidebar and progress tracking*
 
-### Chat Interface
-![Chat Interface](./docs/screenshots/chat.png)
+### Admin Console
+![Admin Console](./docs/screenshots/admin-console.png)
+*Comprehensive admin dashboard with analytics, auto-learning engine, and system monitoring*
 
-### Admin Dashboard
-![Admin Dashboard](./docs/screenshots/admin.png)
+### Document Verification
+![Document Verification](./docs/screenshots/document-verification.png)
+*AI-powered OCR and fraud detection system for instant document verification*
 
 ---
 
