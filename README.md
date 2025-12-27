@@ -1,4 +1,4 @@
-# 🎓 Intelligent Campus Platform
+# Intelligent Campus Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
@@ -8,20 +8,20 @@
 
 > **A production-ready, AI-powered educational platform that revolutionizes student support through intelligent document processing, real-time chat assistance, and automated verification systems.**
 
-## 🌟 Project Highlights
+## Project Highlights
 
 This project demonstrates **enterprise-grade full-stack development** with:
 
-- ✅ **Advanced RAG (Retrieval-Augmented Generation)** implementation with LLM integration
-- ✅ **Modern, responsive UI/UX** with Framer Motion animations and Tailwind CSS
-- ✅ **Production-ready architecture** with FastAPI backend and React frontend
-- ✅ **Real-time AI chat** with context-aware responses
-- ✅ **Document processing pipeline** with OCR and fraud detection capabilities
-- ✅ **Scalable microservices architecture** ready for cloud deployment
+- **Advanced RAG (Retrieval-Augmented Generation)** implementation with LLM integration
+- **Modern, responsive UI/UX** with Framer Motion animations and Tailwind CSS
+- **Production-ready architecture** with FastAPI backend and React frontend
+- **Real-time AI chat** with context-aware responses
+- **Document processing pipeline** with OCR and fraud detection capabilities
+- **Scalable microservices architecture** ready for cloud deployment
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Educational institutions face challenges in:
 - Providing 24/7 student support
@@ -29,7 +29,7 @@ Educational institutions face challenges in:
 - Maintaining up-to-date knowledge bases
 - Scaling support infrastructure cost-effectively
 
-## 💡 Solution
+## Solution
 
 DABBA AI provides an **intelligent, self-learning ecosystem** that:
 1. **Automates student queries** using RAG + LLM technology
@@ -39,7 +39,7 @@ DABBA AI provides an **intelligent, self-learning ecosystem** that:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### System Design
 
@@ -111,7 +111,7 @@ DABBA AI provides an **intelligent, self-learning ecosystem** that:
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ### 1. **Intelligent Chat Assistant**
 - Context-aware responses using RAG
@@ -142,7 +142,7 @@ DABBA AI provides an **intelligent, self-learning ecosystem** that:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ```
@@ -183,7 +183,7 @@ Nginx            - Reverse proxy
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 ```bash
@@ -237,7 +237,7 @@ ollama list
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 | Metric | Value | Target |
 |--------|-------|--------|
@@ -250,7 +250,7 @@ ollama list
 
 ---
 
-## 🎨 UI/UX Showcase
+## UI/UX Showcase
 
 ### Design System
 - **Color Palette:** Extended with 11 shades per color
@@ -260,16 +260,16 @@ ollama list
 - **Components:** Reusable Button, Card, Input components
 
 ### Key Features
-✅ Gradient backgrounds with floating elements  
-✅ Glassmorphism navbar with backdrop blur  
-✅ Animated hero section with stagger effects  
-✅ Hover animations on cards and buttons  
-✅ Custom scrollbar styling  
-✅ Focus states with glow effects  
+Gradient backgrounds with floating elements  
+Glassmorphism navbar with backdrop blur  
+Animated hero section with stagger effects  
+Hover animations on cards and buttons  
+Custom scrollbar styling  
+Focus states with glow effects  
 
 ---
 
-## 🏆 FAANG Interview Highlights
+## FAANG Interview Highlights
 
 ### System Design Decisions
 
@@ -381,7 +381,7 @@ npm run test:e2e
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 - **Response Time:** <1s for chat queries
 - **Document Processing:** ~2s per PDF
@@ -478,7 +478,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Landing Page
 ![Landing Page](./docs/screenshots/landing.png)
@@ -498,7 +498,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🎓 Technical Highlights for FAANG Interviews
+## Technical Highlights for FAANG Interviews
 
 ### System Design Decisions
 
@@ -526,7 +526,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for the future of education**
+**Built with for the future of education**
 
 [Report Bug](https://github.com/chandril-mallick/intelligent-campus-platform-/issues) • [Request Feature](https://github.com/chandril-mallick/intelligent-campus-platform-/issues)
 
